@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadafkauchali&show_icons=true&locale=en" alt="sadafkauchali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadafkauchali&" alt="sadafkauchali" /></p>
+
+<img src="https://github.com/SadafKauchali/SadafKauchali/blob/8bf8c4ae87d4238f53f8dc98e8c087983481bd34/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
